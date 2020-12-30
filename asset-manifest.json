@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/surendarmx/monsters-roledox/static/css/main.71d50579.chunk.css",
+    "main.js": "/surendarmx/monsters-roledox/static/js/main.394ce9da.chunk.js",
+    "main.js.map": "/surendarmx/monsters-roledox/static/js/main.394ce9da.chunk.js.map",
+    "runtime-main.js": "/surendarmx/monsters-roledox/static/js/runtime-main.c32c9147.js",
+    "runtime-main.js.map": "/surendarmx/monsters-roledox/static/js/runtime-main.c32c9147.js.map",
+    "static/js/2.001bb2de.chunk.js": "/surendarmx/monsters-roledox/static/js/2.001bb2de.chunk.js",
+    "static/js/2.001bb2de.chunk.js.map": "/surendarmx/monsters-roledox/static/js/2.001bb2de.chunk.js.map",
+    "static/js/3.2e158301.chunk.js": "/surendarmx/monsters-roledox/static/js/3.2e158301.chunk.js",
+    "static/js/3.2e158301.chunk.js.map": "/surendarmx/monsters-roledox/static/js/3.2e158301.chunk.js.map",
+    "index.html": "/surendarmx/monsters-roledox/index.html",
+    "static/css/main.71d50579.chunk.css.map": "/surendarmx/monsters-roledox/static/css/main.71d50579.chunk.css.map",
+    "static/js/2.001bb2de.chunk.js.LICENSE.txt": "/surendarmx/monsters-roledox/static/js/2.001bb2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32c9147.js",
+    "static/js/2.001bb2de.chunk.js",
+    "static/css/main.71d50579.chunk.css",
+    "static/js/main.394ce9da.chunk.js"
+  ]
+}
